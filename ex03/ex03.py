@@ -23,5 +23,7 @@ print "Is is greater?", 5>-2
 print "Is it greater or equal?", 5 >= -2
 print "Is it less or equal?", 5 <= -2
 
-print 13.00 + 5.00 / 4.00
-#소수점 자리를 표시하고 싶을때는  둘째 자리다 싶으면 0.00 첫째 자리다 싶으면 0.0
+print 13 + 5 / 4
+print 13.0 + 5.0 / 4.0
+
+#소수점 자리를 표시하고 싶을때는 0.0을 붙여라 
