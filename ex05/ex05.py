@@ -29,4 +29,11 @@ print "hey your`s name"
 #%r은 절대로 출력되지 않는다.
 #%d 는 숫자열이지만 소숫자리는 버린다 %g는 반면에 소숫자리까지 표시
 #%s 는 문자열
+#%s 문자열 (String)- jp
+#%c 문자 1개(character) 
+#%d 정수 (Integer)
+#%f 부동소수 (floating-point)
+#%o 8진수
+#%x 16진수
+#%% Literal % (문자 % 자체)
 
