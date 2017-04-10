@@ -16,7 +16,7 @@ print """
    we`ll be able to type as much as we like.
    Even 4 lines if we want, or 5. or 6
 """
-#"""는 backslash와 같은 기능을 한다.
+#"""는 backslash(=\n) 와 같은 기능을 한다.
 
 multline = "Life is too short\nYou need python"
 

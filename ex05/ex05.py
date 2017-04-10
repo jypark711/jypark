@@ -36,4 +36,7 @@ print "hey your`s name"
 #%o 8진수
 #%x 16진수
 #%% Literal % (문자 % 자체)
+print "%d" %cm_to_inch
+print "%g" %cm_to_inch
 
+print "hey!! turbin efficiency ?? %d%%" %age

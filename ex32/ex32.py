@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*- #한글패치
 # -*- coding: cp949 -*-
 
-the_count =[1, 2, 3, 4, 5]
+the_count =[1, 2, 3, 4, 5] # 리스트
 fruits = ['apples', 'orange', 'pears', 'apricots']
 change = [1, 'pennies', 2, 'dimes' ,3, 'quarters' ]
 
 #this first kind of for - loop goes through a list
 for number in the_count:
-    print"This is count %d" % number
+    print"This is count %d" % number#변수
 
 #same as above
 for fruit in fruits:

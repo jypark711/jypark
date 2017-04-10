@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*- #한글패치
 # -*- coding: cp949 -*-
 from nose.tools import*
+
 from game import Room
 
 def test_room():
     gold = Room("GoldRoom",
                 """This room has gold in it you can grab. There`s a
                 door to the north.""")
-    assert_equal(gold.name, " GoldRoom")
+    assert_equal(gold.name, "GoldRoom")
     assert_equal(gold.paths, {})
 
 def test_room_path():

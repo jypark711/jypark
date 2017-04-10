@@ -33,7 +33,7 @@ happy_baby = Song(["Happy birthday to you",
                    "I don`t want to get sued",
                    "So I`ll stop right there"])
 bulls_on_parade = Song(["They rally around tha family",
-                        "With poctets full of shells"])
+                        "With pockets full of shells"])
 
 happy_baby.sing_me_a_song()
 
